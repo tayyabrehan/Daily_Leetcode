@@ -1,9 +1,3 @@
----
-
-### 9. Palindrome Number ✅  
-**Difficulty:** Easy  
-**Problem Link:** [LeetCode #9 - Palindrome Number](https://leetcode.com/problems/palindrome-number/)
-
 #### 🧠 Problem Statement:
 Given an integer `x`, return `true` if `x` is a **palindrome**, and `false` otherwise.
 
